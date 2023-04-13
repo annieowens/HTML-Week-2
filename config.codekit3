@@ -85,19 +85,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/Assets\/photos\/chocolate.png" : {
-      "ft" : 32768,
-      "iS" : 395641,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/chocolate.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/Assets\/photos\/pesto.png" : {
       "ft" : 32768,
       "iS" : 137219,
@@ -124,19 +111,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/Assets\/photos\/soup.png" : {
-      "ft" : 32768,
-      "iS" : 1007080,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/soup.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/Assets\/photos\/soup2.png" : {
       "ft" : 32768,
       "iS" : 135773,
@@ -148,19 +122,6 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/taco.jpg" : {
-      "ft" : 16384,
-      "iS" : 246512,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/taco.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
     "\/Assets\/redesign_2.fig" : {
@@ -207,6 +168,45 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/chocolate.png" : {
+      "ft" : 32768,
+      "iS" : 395641,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/chocolate.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/soup.png" : {
+      "ft" : 32768,
+      "iS" : 1007080,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/soup.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/gallery\/taco.jpg" : {
+      "ft" : 16384,
+      "iS" : 246512,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/gallery\/taco.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/deploy\/img\/global\/logo.svg" : {
