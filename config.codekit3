@@ -98,32 +98,6 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/Assets\/photos\/donut.png" : {
-      "ft" : 32768,
-      "iS" : 18934,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/donut.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/pastacircle.png" : {
-      "ft" : 32768,
-      "iS" : 25132,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/pastacircle.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/Assets\/photos\/pesto.png" : {
       "ft" : 32768,
       "iS" : 137219,
@@ -209,6 +183,32 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/classes\/donut.png" : {
+      "ft" : 32768,
+      "iS" : 18934,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/classes\/donut.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/classes\/pastacircle.png" : {
+      "ft" : 32768,
+      "iS" : 25132,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/classes\/pastacircle.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/deploy\/img\/global\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -250,6 +250,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/classes.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/classes.html",
+      "oF" : 0
     },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
