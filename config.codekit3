@@ -189,19 +189,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Assets\/photos\/k.jpeg" : {
-      "ft" : 16384,
-      "iS" : 95038,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/k.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/Assets\/photos\/l.jpeg" : {
       "ft" : 16384,
       "iS" : 40049,
@@ -245,6 +232,19 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/heroes\/k.jpeg" : {
+      "ft" : 16384,
+      "iS" : 95038,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroes\/k.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -263,6 +263,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
