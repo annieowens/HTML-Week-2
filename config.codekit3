@@ -59,71 +59,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/Assets\/photos\/alfredo.png" : {
-      "ft" : 32768,
-      "iS" : 132330,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/alfredo.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/chicken.png" : {
-      "ft" : 32768,
-      "iS" : 140056,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/chicken.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/pesto.png" : {
-      "ft" : 32768,
-      "iS" : 137219,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/pesto.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/ramen.png" : {
-      "ft" : 32768,
-      "iS" : 121971,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/ramen.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/Assets\/photos\/soup2.png" : {
-      "ft" : 32768,
-      "iS" : 135773,
-      "oA" : 0,
-      "oAP" : "\/Assets\/photos\/soup2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/Assets\/redesign_2.fig" : {
       "cB" : 0,
       "ft" : 8192,
@@ -143,6 +78,71 @@
       "oAP" : "\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/deploy\/img\/articles\/alfredo.png" : {
+      "ft" : 32768,
+      "iS" : 132330,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/articles\/alfredo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/articles\/chicken.png" : {
+      "ft" : 32768,
+      "iS" : 140056,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/articles\/chicken.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/articles\/pesto.png" : {
+      "ft" : 32768,
+      "iS" : 137219,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/articles\/pesto.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/articles\/ramen.png" : {
+      "ft" : 32768,
+      "iS" : 121971,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/articles\/ramen.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/deploy\/img\/articles\/soup2.png" : {
+      "ft" : 32768,
+      "iS" : 135773,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/articles\/soup2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/deploy\/img\/classes\/donut.png" : {
       "ft" : 32768,
@@ -250,6 +250,14 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/dev\/content\/articles.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/articles.html",
+      "oF" : 0
     },
     "\/dev\/content\/classes.kit" : {
       "cB" : 0,
