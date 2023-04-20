@@ -1,10 +1,10 @@
 /* =============
     recipe
 ============= */
-#hero{
+#recipe{
     display: grid;
     grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". recipe .";
+    grid-template-areas: "recipe";
 
     >div{
         grid-area: recipe ;

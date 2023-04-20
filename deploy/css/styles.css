@@ -383,18 +383,27 @@ header > div {
 /* =============
     recipe
 ============= */
-#hero {
+#recipe {
   display: grid;
   grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". recipe .";
+  grid-template-areas: "recipe";
 }
-#hero > div {
+#recipe > div {
   grid-area: recipe;
 }
 
 /* =============
     classes
 ============= */
+#classes {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". classes .";
+}
+#classes > div {
+  grid-area: classes;
+}
+
 /* =============
     gallery
 ============= */
