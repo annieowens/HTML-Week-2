@@ -362,6 +362,7 @@ textarea {
     Header
 ============= */
 header {
+  background-color: darkseagreen;
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". header .";
@@ -394,7 +395,7 @@ header > div {
 ============= */
 #recipe {
   display: grid;
-  grid-template-columns: 16px auto 16px;
+  grid-template-columns: 26px auto 16px;
   grid-template-areas: "recipe";
 }
 #recipe > div {
