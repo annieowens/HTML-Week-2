@@ -373,11 +373,20 @@ header > div {
 /* =============
     Footer
 ============= */
+#footer {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". footer .";
+}
+#footer > div {
+  grid-area: footer;
+}
+
 /* =============
     Hero
 ============= */
 .large-images {
-  border: 1px solid red;
+  background-color: darkgray;
 }
 
 /* =============
@@ -410,3 +419,11 @@ header > div {
 /* =============
     articles
 ============= */
+#articles {
+  display: grid;
+  grid-template-columns: 36px auto 36px;
+  grid-template-areas: ". articles .";
+}
+#articles > div {
+  grid-area: articles;
+}
