@@ -5,6 +5,7 @@
         display: grid;
         grid-template-columns: 36px auto 36px;
         grid-template-areas: ". articles .";
+        background-color: rgb(239, 232, 14);
     
         >div{
             grid-area: articles ;

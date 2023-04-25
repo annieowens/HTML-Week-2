@@ -378,6 +378,7 @@ header > div {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". footer .";
+  background-color: rgb(79, 145, 105);
 }
 #footer > div {
   grid-area: footer;
@@ -424,6 +425,7 @@ header > div {
   display: grid;
   grid-template-columns: 36px auto 36px;
   grid-template-areas: ". articles .";
+  background-color: rgb(239, 232, 14);
 }
 #articles > div {
   grid-area: articles;

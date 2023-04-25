@@ -6,6 +6,7 @@
     display: grid;
     grid-template-columns: 16px auto 16px;
     grid-template-areas: ". footer .";
+    background-color: rgb(79, 145, 105);
 
     >div{
         grid-area: footer ;
