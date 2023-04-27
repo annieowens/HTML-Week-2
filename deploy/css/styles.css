@@ -396,31 +396,38 @@ header #form-content div {
 /* =============
     Hero
 ============= */
-.large-images {
-  background-color: darkgray;
-}
-
 /* =============
     recipe
 ============= */
-#recipe {
+z #recipe {
+  background-color: rgb(178, 20, 104);
   display: grid;
-  grid-template-columns: 26px auto 16px;
-  grid-template-areas: "recipe";
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". recipe .";
 }
-#recipe > div {
+z #recipe > div {
   grid-area: recipe;
+}
+z #recipe #subhead {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". subhead .";
+}
+z #recipe #subhead div {
+  grid-area: subhead;
+  background-color: darkgreen;
 }
 
 /* =============
     classes
 ============= */
-#classes {
+#classes aside #logo-nav {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". classes .";
+  background-color: olive;
 }
-#classes > div {
+#classes aside #logo-nav div {
   grid-area: classes;
 }
 
