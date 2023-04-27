@@ -2,12 +2,35 @@
     Header
 ============= */
 header{
-   background-color: darkseagreen;
+  
+    #logo-nav{
+    background-color: seagreen;
     display: grid;
     grid-template-columns: 16px auto 16px;
-    grid-template-areas: ". header .";
-
+    grid-template-areas: ". logo-nav .";    
     >div{
-        grid-area: header ;
+
+        grid-area: logo-nav;
     }
+       }
+
+
+
+    
+   
+    #form-content {
+        background-color: darkgreen;
+        display: grid;
+        grid-template-columns: 16px auto 16px;
+        grid-template-areas: ". form-content .";   
+        div{
+            grid-area: form-content;
+    
+        }
+    }
+   
+   
+
+  
+    
     }

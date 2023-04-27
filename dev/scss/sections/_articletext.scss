@@ -1,0 +1,21 @@
+/* =============
+    articletext
+============= */
+
+#articletext{
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ".articletext .";
+    background-color: lightskyblue;
+
+    >div{
+        grid-area: articletext ;
+    }
+
+    .article-text{
+    display: grid;
+    grid-template-columns: 16px auto 16px;
+    grid-template-areas: ".article-text .";
+    background-color: rgb(36, 119, 171);
+    }
+}

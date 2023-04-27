@@ -361,14 +361,23 @@ textarea {
 /* =============
     Header
 ============= */
-header {
-  background-color: darkseagreen;
+header #logo-nav {
+  background-color: seagreen;
   display: grid;
   grid-template-columns: 16px auto 16px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". logo-nav .";
 }
-header > div {
-  grid-area: header;
+header #logo-nav > div {
+  grid-area: logo-nav;
+}
+header #form-content {
+  background-color: darkgreen;
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ". form-content .";
+}
+header #form-content div {
+  grid-area: form-content;
 }
 
 /* =============
@@ -378,7 +387,7 @@ header > div {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". footer .";
-  background-color: rgb(79, 145, 105);
+  background-color: darkseagreen;
 }
 #footer > div {
   grid-area: footer;
@@ -423,10 +432,29 @@ header > div {
 ============= */
 #articles {
   display: grid;
-  grid-template-columns: 36px auto 36px;
+  grid-template-columns: 16px auto 16px;
   grid-template-areas: ". articles .";
   background-color: rgb(239, 232, 14);
 }
 #articles > div {
   grid-area: articles;
+}
+
+/* =============
+    articletext
+============= */
+#articletext {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ".articletext .";
+  background-color: lightskyblue;
+}
+#articletext > div {
+  grid-area: articletext;
+}
+#articletext .article-text {
+  display: grid;
+  grid-template-columns: 16px auto 16px;
+  grid-template-areas: ".article-text .";
+  background-color: rgb(36, 119, 171);
 }
